@@ -1,0 +1,6 @@
+Category,title,required_skills,preferred_skills,min_experience_years
+INFORMATION-TECHNOLOGY,Senior Full Stack Engineer,Python|FastAPI|React|TypeScript|PostgreSQL,Docker|Kubernetes|AWS|Redis,5
+HR,Technical Recruiter,Sourcing|Interviewing|Applicant Tracking Systems|Talent Acquisition,Workday|LinkedIn Recruiter|Employer Branding,3
+FINANCE,Financial Analyst,Financial Modeling|Excel|Valuation|Forecasting,SQL|Power BI|Tableau|Python,3
+HEALTHCARE,Clinical Nurse Specialist,Patient Assessment|BLS|Critical Care|Patient Advocacy,EMR|Epic Systems|Triage,4
+SALES,Enterprise Account Executive,B2B Sales|Contract Negotiation|Pipeline Management|CRM,Salesforce|Account-Based Marketing|HubSpot,5
