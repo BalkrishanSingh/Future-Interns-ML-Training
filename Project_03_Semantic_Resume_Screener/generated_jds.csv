@@ -1,0 +1,49 @@
+Category,title,required_skills,preferred_skills,min_experience_years
+INFORMATION-TECHNOLOGY,Senior Full Stack Engineer,Python|FastAPI|React|TypeScript|PostgreSQL,Docker|Kubernetes|AWS|Redis,5
+HR,Technical Recruiter,Sourcing|Interviewing|Applicant Tracking Systems|Talent Acquisition,Workday|LinkedIn Recruiter|Employer Branding,3
+FINANCE,Financial Analyst,Financial Modeling|Excel|Valuation|Forecasting,SQL|Power BI|Tableau|Python,3
+HEALTHCARE,Clinical Nurse Specialist,Patient Assessment|BLS|Critical Care|Patient Advocacy,EMR|Epic Systems|Triage,4
+SALES,Enterprise Account Executive,B2B Sales|Contract Negotiation|Pipeline Management|CRM,Salesforce|Account-Based Marketing|HubSpot,5
+INFORMATION-TECHNOLOGY,Full Stack Software Engineer,Python|JavaScript|React|PostgreSQL|REST APIs,Docker|AWS|TypeScript|CI/CD,3
+BUSINESS-DEVELOPMENT,Business Development Manager,B2B Sales|Lead Generation|Pipeline Management|Client Relations,CRM|Market Research|Contract Negotiation|SaaS,4
+BUSINESS-DEVELOPMENT,Strategic Partnerships Director,Partnership Development|Deal Structuring|Cross-functional Leadership|Revenue Strategy,Executive Presentations|Financial Modeling|Venture Deals,6
+ADVOCATE,Corporate Legal Counsel,Contract Drafting|Regulatory Compliance|Legal Research|Corporate Governance,M&A Advisory|IP Licensing|Commercial Litigation,5
+ADVOCATE,Litigation Associate,Case Briefing|Trial Preparation|Deposition Experience|Legal Drafting,Dispute Resolution|Arbitration|Court Advocacy,3
+CHEF,Executive Chef,Menu Development|Kitchen Management|Food Costing|Culinary Arts,HACCP Certification|Fine Dining|Inventory Management,7
+CHEF,Sous Chef,Line Cooking|Food Preparation|Staff Supervision|Kitchen Safety,Pastry Techniques|Banquet Prep|Portion Control,3
+FINANCE,Portfolio Risk Manager,Risk Assessment|Quantitative Analysis|Asset Allocation|Portfolio Theory,Python|Bloomberg Terminal|Fixed Income|Derivatives,5
+ENGINEERING,Mechanical Design Engineer,CAD|SolidWorks|FEA Analysis|Thermal Dynamics|Product Design,GD&T|Rapid Prototyping|Manufacturing Methods,4
+ENGINEERING,Systems Engineering Specialist,System Architecture|Requirements Engineering|Risk Analysis|Integration Testing,MATLAB|Simulink|ISO Standards|Embedded Systems,5
+ACCOUNTANT,Senior Accountant,General Ledger|Month-end Close|GAAP Compliance|Account Reconciliation,CPA|SAP|QuickBooks|Financial Reporting,4
+ACCOUNTANT,Audit Associate,Internal Controls|Audit Procedures|Financial Statements|Workpaper Preparation,SOX Compliance|ERP Systems|Tax Compliance,2
+FITNESS,Fitness Director & Lead Trainer,Personal Training|Strength & Conditioning|Program Design|Client Assessment,CPT Certification|Nutrition Coaching|Group Fitness Leadership,4
+FITNESS,Exercise Physiologist,Biomechanical Analysis|Cardiac Rehab|Functional Movement Screen|Injury Prevention,ACSM Certification|Sports Science|Athletic Training,3
+AVIATION,Commercial Airline Pilot,ATP License|Flight Navigation|Multi-Engine Rating|Crew Resource Management,Boeing/Airbus Type Rating|Flight Simulator Instructor|FAA Regulations,6
+AVIATION,Flight Operations Manager,Flight Dispatch|Aviation Safety Management|Fleet Scheduling|Regulatory Compliance,ICAO Standards|Meteorology Analysis|Emergency Response Planning,5
+SALES,Inside Sales Representative,Cold Calling|Lead Qualification|Product Demos|CRM Hygiene,HubSpot|Email Campaigns|Objection Handling,2
+HEALTHCARE,Healthcare Operations Manager,Clinical Workflow Optimization|HIPAA Compliance|Staff Scheduling|Patient Safety,Hospital Administration|JCAHO Standards|Health Informatics,5
+CONSULTANT,Management Consultant,Strategic Advisory|Market Entry Strategy|Stakeholder Interviewing|Executive Presentation,Quantitative Modeling|Process Optimization|Change Management,4
+CONSULTANT,Technology Strategy Consultant,Digital Transformation|IT Architecture Assessment|Roadmap Planning|Vendor Selection,Cloud Migration|Enterprise Agile|Business Architecture,5
+BANKING,Commercial Relationship Manager,Credit Underwriting|Loan Structuring|Financial Statement Analysis|Client Prospecting,Treasury Management|Syndicated Loans|Regulatory Compliance,4
+BANKING,Credit Risk Analyst,Credit Scoring|Portfolio Risk Analysis|Default Modeling|Stress Testing,Moody's Analytics|SQL|Basel III Regulations,3
+CONSTRUCTION,Construction Project Manager,Subcontractor Oversight|Project Scheduling|Budget Control|Site Safety Management,Procore|OSHA 30|AutoCAD|Cost Estimation,5
+CONSTRUCTION,Civil Site Engineer,Site Inspection|Quality Assurance|Structural Specifications|Blueprint Reading,Civil 3D|Surveying|Environmental Compliance,3
+PUBLIC-RELATIONS,Public Relations Manager,Media Relations|Press Releases|Crisis Communication|Campaign Strategy,Brand Storytelling|Media Tracking Tools|Influencer Relations,4
+PUBLIC-RELATIONS,Corporate Communications Lead,Internal Communications|Executive Speechwriting|Reputation Management|Content Strategy,Social Media PR|Stakeholder Messaging|Event PR,5
+HR,Human Resources Business Partner,Employee Relations|Talent Management|Organizational Design|Labor Law Compliance,SHRM-CP|Performance Coaching|HR Analytics,5
+DESIGNER,Senior UI/UX Designer,Wireframing|Figma|Design Systems|User Research|Usability Testing,Interactive Prototyping|Information Architecture|Micro-interactions,4
+DESIGNER,Product Designer,User-Centered Design|Design Thinking|UI Component Libraries|Rapid Prototyping,Accessibility Standards|UX Writing|Mobile App UX,3
+ARTS,Art Director,Creative Direction|Visual Storytelling|Brand Identity|Team Mentorship,Adobe Creative Cloud|Campaign Concepts|Print & Digital Production,6
+ARTS,Fine Arts Curator,Exhibition Planning|Artwork Provenance|Art History Analysis|Catalog Writing,Gallery Management|Grant Writing|Conservation Techniques,4
+TEACHER,High School STEM Teacher,Curriculum Delivery|Lesson Planning|Classroom Management|Formative Assessment,State Teaching Certification|Differentiated Instruction|EdTech Tools,3
+TEACHER,Instructional Specialist,Pedagogical Coaching|Curriculum Design|Standardized Testing Analysis|Teacher Training,Master of Education|Special Education Strategies|Blended Learning,5
+APPAREL,Senior Apparel Designer,Garment Construction|Tech Packs|Fabric Sourcing|Trend Forecasting,Illustrator Fashion CAD|Fit Approvals|Costing Sheets,5
+APPAREL,Fashion Production Merchandiser,Vendor Negotiation|Sample Approval|Production Timeline Management|Quality Control,Textile Science|Supply Chain Management|Inventory Planning,3
+DIGITAL-MEDIA,Digital Marketing Strategist,SEO/SEM Strategy|Google Analytics|Paid Ad Campaigns|Content Marketing,HubSpot|Performance Marketing|A/B Testing,3
+DIGITAL-MEDIA,Social Media & Content Lead,Social Media Strategy|Short-form Video Production|Community Engagement|Copywriting,Creator Partnerships|TikTok/Instagram Analytics|Canva/Premiere,3
+AGRICULTURE,Agronomist & Crop Specialist,Crop Yield Optimization|Soil Fertility Management|Pest Scouting|Irrigation Planning,Precision Agriculture|GPS/GIS Mapping|Fertilizer Formulations,4
+AGRICULTURE,Farm Operations Manager,Agricultural Equipment Management|Crop Scheduling|Harvest Logistics|Labor Supervision,Organic Certification Standards|Supply Chain Logistics|Budget Planning,5
+AUTOMOBILE,Automotive Systems Engineer,Powertrain Diagnostics|CAN Bus Architecture|ECU Calibration|Vehicle Dynamics,MATLAB/Simulink|EV Battery Systems|ISO 26262 Functional Safety,4
+AUTOMOBILE,Automotive Service & Fleet Supervisor,Fleet Maintenance Operations|OBD-II Diagnostics|Shop Safety Standards|Technician Supervision,ASE Certification|Warranty Processing|Inventory Management,5
+BPO,BPO Operations Team Lead,SLA Management|Quality Assurance Auditing|Agent Coaching|KPI Tracking,Call Center Workforce Management|Six Sigma Yellow Belt|Zendesk/Salesforce,3
+BPO,Customer Experience Operations Manager,Omnichannel Support Operations|Process Optimization|CSAT/NPS Improvement|Team Leadership,Vendor Management|Contact Center Technology|Capacity Planning,5
