@@ -1,0 +1,25 @@
+Sarah Miller
+Email: sarah.miller@example.io
+Phone: (555) 987-6543
+GitHub: https://github.com/sarahmiller
+Website: https://sarahmiller.tech
+
+Professional Summary:
+Backend Software Engineer with 4 years of experience specializing in high-throughput APIs, data pipelines, and cloud architecture.
+
+Education:
+Bachelor of Science in Computer Science (B.S.), University of Washington (2020)
+
+Technical Skills:
+Python, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, AWS, Git, Linux, REST, SQL, CI/CD, Terraform
+
+Professional Experience:
+Backend Engineer | DataMesh Inc. (2022 - Present, 2 years)
+- Designed robust RESTful APIs in Python using FastAPI and PostgreSQL.
+- Reduced database query latency by 40% using Redis indexing and connection pooling.
+- Managed infrastructure as code using Terraform and deployed containerized services on AWS ECS.
+
+Junior Software Developer | Apex Web Services (2020 - 2022, 2 years)
+- Built internal tooling and microservices using Python, Django, and MySQL.
+- Implemented unit testing and integration testing suites achieving 92% coverage.
+- Configured automated Docker build pipelines for continuous delivery.

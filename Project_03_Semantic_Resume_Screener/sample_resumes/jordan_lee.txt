@@ -1,0 +1,23 @@
+Jordan Lee
+Email: jordan.lee@example.org
+Phone: 555-432-1098
+LinkedIn: https://linkedin.com/in/jordanlee-dev
+
+Professional Summary:
+Frontend & Full Stack Engineer with 3 years of experience crafting interactive user interfaces, responsive design systems, and frontend state architectures.
+
+Education:
+Associate Degree in Web Development (Diploma), Seattle Central College (2021)
+
+Technical Skills:
+TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Node.js, GraphQL, Git, REST, Docker
+
+Professional Experience:
+Frontend Developer | PixelCraft Media (2022 - Present, 2 years)
+- Developed responsive web applications using React, Next.js, and TypeScript.
+- Implemented state management and real-time dashboard components.
+- Collaborated with backend teams to integrate REST and GraphQL endpoints.
+
+Junior Frontend Developer | Horizon Digital (2021 - 2022, 1 year)
+- Built interactive marketing pages and UI components using HTML, CSS, JavaScript, and React.
+- Ensured WCAG 2.1 AA accessibility compliance across mobile and desktop views.

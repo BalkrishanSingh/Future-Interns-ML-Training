@@ -1,0 +1,27 @@
+Alex Chen
+Email: alex.chen@example.com
+Phone: +1-555-234-5678
+LinkedIn: https://linkedin.com/in/alexchen-dev
+Portfolio: https://alexchen.dev
+
+Professional Summary:
+Senior Full Stack & Machine Learning Engineer with 6 years of experience building scalable distributed web applications and production ML pipelines.
+
+Education:
+Master of Science in Computer Science (MS), Stanford University (2018)
+Bachelor of Science in Software Engineering, UC Berkeley (2016)
+
+Technical Skills:
+Python, TypeScript, React, Next.js, Node.js, FastAPI, PyTorch, Docker, Kubernetes, PostgreSQL, Redis, AWS, Git, GraphQL, REST
+
+Professional Experience:
+Senior Software Engineer | TechNova Solutions (2021 - Present, 3 years)
+- Architected and deployed microservices using FastAPI, Python, and PostgreSQL, handling 15M daily requests.
+- Integrated PyTorch neural ranker models for content recommendation with sub-50ms latency.
+- Led frontend redesign with Next.js, React, and TypeScript.
+- Containerized workflows with Docker and orchestrated deployment via Kubernetes on AWS.
+
+Software Engineer | CloudScale Systems (2018 - 2021, 3 years)
+- Developed distributed backend services in Python and Go with Redis caching.
+- Automated CI/CD pipelines using GitHub Actions and Docker.
+- Maintained REST and GraphQL APIs for client applications.
